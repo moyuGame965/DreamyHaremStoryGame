@@ -1,2 +1,1 @@
 # DreamyHaremStoryGame
-DreamyHaremStoryGame
